@@ -63,7 +63,6 @@ This visualizes periods where the strategy outperforms or underperforms the base
 
 ---
 
-### 🧠 Sharpe Ratio Example
+### 🧠 Sharpe Ratio
 
-```python
-Sharpe Ratio ≈ -0.21
+This strategy underperformed with 0.2. Will be working on some improvements.
