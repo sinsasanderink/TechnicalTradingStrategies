@@ -65,4 +65,4 @@ This visualizes periods where the strategy outperforms or underperforms the base
 
 ### 🧠 Sharpe Ratio
 
-This strategy underperformed with 0.2. Will be working on some improvements.
+This strategy underperformed with sharpe of -0.2. Will be working on some improvements.
